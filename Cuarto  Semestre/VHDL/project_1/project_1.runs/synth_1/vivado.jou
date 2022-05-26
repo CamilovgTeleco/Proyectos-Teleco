@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Feb 24 22:45:31 2021
+# Process ID: 4604
+# Current directory: C:/Users/Camil/OneDrive/Escritorio/project_1/project_1.runs/synth_1
+# Command line: vivado.exe -log pro.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source pro.tcl
+# Log file: C:/Users/Camil/OneDrive/Escritorio/project_1/project_1.runs/synth_1/pro.vds
+# Journal file: C:/Users/Camil/OneDrive/Escritorio/project_1/project_1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source pro.tcl -notrace

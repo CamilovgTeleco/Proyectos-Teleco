@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Lab_SumadorBCD.srcs/sources_1/new/Comparador.vhd" \
+"../../../../Lab_SumadorBCD.srcs/sources_1/new/Mux_2a1_4bits.vhd" \
+"../../../../Lab_SumadorBCD.srcs/sources_1/new/SumBCD.vhd" \
+"../../../../Lab_SumadorBCD.srcs/sources_1/new/Sumador_4_bits.vhd" \
+"../../../../Lab_SumadorBCD.srcs/sources_1/new/fulladder.vhd" \
+"../../../../Lab_SumadorBCD.srcs/sim_1/new/SumBCD_tb.vhd" \
+
+# Do not sort compile order
+nosort
